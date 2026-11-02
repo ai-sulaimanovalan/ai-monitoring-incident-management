@@ -62,3 +62,7 @@ Additional security, concurrency, and reliability testing would be required befo
 Junior AI Automation Developer
 
 GitHub: [ai-sulaimanovalan](https://github.com/ai-sulaimanovalan)
+
+## Project Documentation
+
+[View Project Portfolio (PDF)](./AI_Monitoring_Incident_Management_Portfolio_Final.pdf)
