@@ -66,3 +66,14 @@ GitHub: [ai-sulaimanovalan](https://github.com/ai-sulaimanovalan)
 ## Project Documentation
 
 [View Project Portfolio (PDF)](./AI_Monitoring_Incident_Management_Portfolio_Final.pdf)
+
+## Workflow Screenshots
+
+### 1. Secure Monitoring Center
+![Secure Monitoring Center](<./Центр мониторинга SECURE.png>)
+
+### 2. Automation Failure Logging
+![Automation Failure Logging](<./Журнал сбоев.png>)
+
+### 3. Incident Resolution API
+![Incident Resolution API](<./Закрытие инцидетов.png>)
